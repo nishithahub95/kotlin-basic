@@ -5,6 +5,10 @@ fun main(args: Array<String>) {
     var b=20
     var c=a+b
     println(c)
+    print(13/2)
+    print(13/2.0)
+    print(13%2)
+    print(13%2.0)
 
 //    var age=10
 //    age =20
